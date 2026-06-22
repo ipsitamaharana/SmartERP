@@ -1,6 +1,6 @@
 # SmartERP
 
-A cloud-based ERP system inspired by Tally ERP 9.
+A cloud-based ERP system inspired by Tally .
 
 ## Tech Stack
 
